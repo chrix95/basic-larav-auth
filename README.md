@@ -30,7 +30,7 @@ This project is a part of some of my private repositories. It only showcase a fe
     ```git clone https://github.com/chrix95/basic-larav-auth.git```
 
 - Run following commands to complete setup
-    ```cd lara-auth```
+    ```cd basic-larav-auth```
     ```composer install```
 
 - Create a database of your choice (Though I used lara_auth, you can use whatever you want)
