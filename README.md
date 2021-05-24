@@ -40,7 +40,7 @@ This project is a part of some of my private repositories. It only showcase a fe
     **The default credential is**
         - Email:    john.doe@gmail.com
         - Phone:    07084677075
-        - Password: sup3r@dm!n
+        - Password: secret1234
     **Check out /database/seeders/AdminSeeder.php if yout wish to change the credential**
 
 
